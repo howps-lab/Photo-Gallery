@@ -29,7 +29,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Basel, Switzerland',
     year: '2026',
     aspect: '4:3',
-    src: '/src/assets/images/arch_brutalist_1792498071249.jpg',
+    src: 'https://raw.githubusercontent.com/howps-lab/Photo-Gallery/refs/heads/main/src/assets/images/arch_brutalist_1792498071249.jpg',
     curatorNote: 'Monolithic concrete volumes intersecting stark midday geometric shadows. An architectural meditation on void and permanence.',
     exif: {
       camera: 'Hasselblad X2D 100C',
@@ -49,7 +49,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Mayfair, London',
     year: '2026',
     aspect: '16:9',
-    src: '/src/assets/images/porsche_nocturne_1792498072581.jpg',
+    src: 'https://raw.githubusercontent.com/howps-lab/Photo-Gallery/refs/heads/main/src/assets/images/porsche_nocturne_1792498072581.jpg',
     curatorNote: 'Wet cobblestone reflections and sodium-vapor luminescence framing the timeless sculpted form of an iconic British grand tourer.',
     exif: {
       camera: 'Leica SL3',
@@ -69,7 +69,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Milan, Italy',
     year: '2026',
     aspect: '3:4',
-    src: '/src/assets/images/editorial_portrait_1792498072656.jpg',
+    src: 'https://raw.githubusercontent.com/howps-lab/Photo-Gallery/refs/heads/main/src/assets/images/editorial_portrait_1792498072656.jpg',
     curatorNote: 'Natural window chiaroscuro cascading over minimalist tailored silhouettes. Raw texture and quiet composure captured on monochrome film.',
     exif: {
       camera: 'Leica M11 Monochrom',
@@ -89,7 +89,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Big Sur, California',
     year: '2026',
     aspect: '16:9',
-    src: '/src/assets/images/coastal_monolith_1792498073216.jpg',
+    src: 'https://raw.githubusercontent.com/howps-lab/Photo-Gallery/refs/heads/main/src/assets/images/coastal_monolith_1792498073216.jpg',
     curatorNote: 'Perilous basalt sea stack resisting the violent Pacific surf at first dawn light. Atmospheric coastal haze dissolving sea into sky.',
     exif: {
       camera: 'Sony α7R V',
@@ -109,7 +109,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Sonoran Desert, Arizona',
     year: '2026',
     aspect: '4:3',
-    src: '/src/assets/images/desert_modernism_1792498073709.jpg',
+    src: 'https://raw.githubusercontent.com/howps-lab/Photo-Gallery/refs/heads/main/src/assets/images/desert_modernism_1792498073709.jpg',
     curatorNote: 'Rammed-earth pavilions harmonizing with ancient saguaro and sun-bleached desert plateaus under unyielding cobalt skies.',
     exif: {
       camera: 'Fujifilm GFX 100 II',
@@ -129,7 +129,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Shinjuku, Tokyo',
     year: '2026',
     aspect: '3:4',
-    src: '/src/assets/images/tokyo_street_rain_1792498074220.jpg',
+    src: 'https://raw.githubusercontent.com/howps-lab/Photo-Gallery/refs/heads/main/src/assets/images/tokyo_street_rain_1792498074220.jpg',
     curatorNote: 'A solitary figure beneath a clear umbrella traversing glistening rain-drenched alleys illuminated by neon signage.',
     exif: {
       camera: 'Fujifilm X-T5',
