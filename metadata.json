@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic 3D Photography Gallery",
+  "description": "An immersive 3D photography showcase featuring floating perspective panels, editorial typography, and fluid cinematic transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
